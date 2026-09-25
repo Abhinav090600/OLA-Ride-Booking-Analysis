@@ -1,8 +1,8 @@
 # OLA-Ride-Booking-Analysis
 
-# 🚕 Uber Ride Booking Analytics Dashboard
+#  Uber Ride Booking Analytics Dashboard
 
-## 📊 Project Overview
+##  Project Overview
 
 This project is an interactive **Uber Ride Booking Analytics Dashboard** built using **Microsoft Power BI**.
 
@@ -12,7 +12,7 @@ Instead of looking at the raw booking data directly, the dashboard organizes the
 
 ---
 
-## 🎯 Project Objectives
+##  Project Objectives
 
 The dashboard was designed to answer questions such as:
 
@@ -28,11 +28,11 @@ The dashboard was designed to answer questions such as:
 
 ---
 
-## 📑 Dashboard Structure
+##  Dashboard Structure
 
 The Power BI report is divided into **5 analytical pages**.
 
-### 1. 📈 Overall
+### 1.  Overall
 
 The Overall page provides a quick view of the general ride-booking performance.
 
@@ -57,7 +57,7 @@ This helps compare the distance covered by different vehicle categories and unde
 
 ---
 
-### 3. 💰 Revenue
+### 3.  Revenue
 
 The Revenue page focuses on the financial side of the ride-booking business.
 
@@ -71,7 +71,7 @@ This view helps understand how customers pay, which customers contribute the mos
 
 ---
 
-### 4. ❌ Cancellation
+### 4.  Cancellation
 
 The Cancellation page analyzes cancelled rides from both customer and driver perspectives.
 
@@ -97,7 +97,7 @@ This allows the performance of drivers and customer experience to be explored th
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 - **Microsoft Power BI**
 - **DAX**
@@ -109,7 +109,7 @@ This allows the performance of drivers and customer experience to be explored th
 
 ---
 
-## 📊 Key Analysis Areas
+##  Key Analysis Areas
 
 The project covers several important areas of ride-booking analytics:
 
@@ -133,7 +133,7 @@ The project covers several important areas of ride-booking analytics:
 
 ---
 
-## 💡 Key Insights
+##  Key Insights
 
 The dashboard makes it easier to explore relationships between different aspects of the ride-booking business.
 
@@ -171,14 +171,3 @@ By dividing the analysis into Overall, Vehicle Type, Revenue, Cancellation, and 
 
 ---
 
-## 📷 Dashboard Preview
-
-Add screenshots of the five dashboard pages here:
-
-```text
-Screenshots/
-├── Overall.png
-├── Vehicle-Type.png
-├── Revenue.png
-├── Cancellation.png
-└── Ratings.png
