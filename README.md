@@ -45,7 +45,7 @@ This page helps understand overall booking activity and how rides are distribute
 
 ---
 
-### 2. 🚗 Vehicle Type
+### 2.  Vehicle Type
 
 This page focuses on the performance of different vehicle types.
 
@@ -84,7 +84,7 @@ Separating customer and driver cancellations makes it easier to understand the d
 
 ---
 
-### 5. ⭐ Ratings
+### 5.  Ratings
 
 The Ratings page focuses on service quality and user feedback.
 
@@ -150,7 +150,7 @@ Rather than relying on a single summary number, the dashboard allows users to in
 
 ---
 
-## 📌 Project Learning
+## Project Learning
 
 Through this project, I worked on:
 
@@ -163,7 +163,7 @@ Through this project, I worked on:
 
 ---
 
-## 🚀 Conclusion
+## Conclusion
 
 This project demonstrates how **Power BI can be used to convert ride-booking data into an interactive business analytics solution**.
 
