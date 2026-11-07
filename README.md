@@ -1,7 +1,5 @@
 # OLA-Ride-Booking-Analysis
 
-#  Uber Ride Booking Analytics Dashboard
-
 ##  Project Overview
 
 This project is an interactive **Uber Ride Booking Analytics Dashboard** built using **Microsoft Power BI**.
